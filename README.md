@@ -2,7 +2,7 @@
 - 👀 I’m interested in Azure
 - 🌱 I’m currently learning Bicep
 - 💞️ I’m looking to collaborate on db Migrator tool
-- 📫 How to reach me benjamin.brown@authenticx.com
+- 📫 How to reach me brownbenjamin@live.com
 
 <!---
 benjamin174/benjamin174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
